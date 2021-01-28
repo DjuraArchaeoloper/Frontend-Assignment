@@ -1,0 +1,60 @@
+/* HTML */
+
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #d9dab0;
+}
+
+/* Table */
+
+table {
+    width: 80%;
+    margin: auto;
+    background-color: #f4f5db;
+}
+
+thead tr th {
+    cursor: pointer;
+}
+
+tfoot tr th {
+    cursor: pointer;
+}
+
+/* Heading */
+
+h1 {
+    background-color: #f4f5db;
+    width: 600px;
+}
+
+.container {
+    padding-top: 20px;
+}
+
+/* Scroll button */
+
+.btn {
+    background-color: #23689b;
+    color: white;
+    float: right;
+}
+
+.btn:hover {
+    background-color: #487e95;
+    cursor: pointer;
+}
+
+/* Search, filter containers */
+
+.form-control{
+    background-color: #f4f5db;
+}
+
+.custom-select {
+    background-color: #f4f5db;
+}
+
+#search-box {
+    width: 700px;
+}
