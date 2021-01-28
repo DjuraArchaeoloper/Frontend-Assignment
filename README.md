@@ -1,21 +1,18 @@
 # FrontendAssignment
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7. 
-If you don't have it available, please install.
+Projekat je napravljen uz pomoć [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7. 
+Potrebno je prvo instalirati Angular.
+
+Zatim pokrenuti `npm install`.
+
+Nakon toga u terminalu pokrenuti `ng serve` kako bi se projekat otvorio. 
+Otvoriti pomoću linka `http://localhost:4200/` u pretraživaču. Aplikacija će se automatski refreshovati ukoliko budete unosili neke izmene u kodu.
 
 ##
 
-Run npm install.
-
-### Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-####
-
 Zadatak sam uradio koristeći NodeJS, Angular i Bootstrap u Visual Studio Code-u.
 
-Zadatak je bio tabelarno prikazati podatke sa Json API-ja, i tabelu koja ima opcije filtriranja, sortiranja i paginacije.
+Zadatak je bio tabelarno prikazati podatke sa Json API-ja, sa opcijama filtriranja, sortiranja i paginacije.
 
 Filtriranje, odnosno pretragu sam napravio tako da može sve odjednom da se pretražuje i da se kombinuje i više podataka ukoliko je potrebno.
 
