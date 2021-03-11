@@ -1,21 +1,21 @@
 # FrontendAssignment
 
-Projekat je napravljen uz pomoć [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7. 
-Potrebno je prvo instalirati Angular.
+The project was created using [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
+Download the project and install `Angular` and `NodeJS`.
+Afterwards run `npm install`, in the command prompt and root folder.
 
-Zatim pokrenuti `npm install`.
+When the `node-modules` have finished installing, run `ng serve` in the terminal or node command prompt in order to start the project.
 
-Nakon toga u terminalu pokrenuti `ng serve` kako bi se projekat otvorio. 
-Otvoriti pomoću linka `http://localhost:4200/` u pretraživaču. Aplikacija će se automatski refreshovati ukoliko budete unosili neke izmene u kodu.
+Open in your browser using `http://localhost:4200/`. The application will automatically refresh if you change something in the code.
 
 ##
 
-Zadatak sam uradio koristeći NodeJS, Angular i Bootstrap u Visual Studio Code-u.
+I completed the project using NodeJS, Angular and Bootstrap in Visual Studio code.
 
-Zadatak je bio tabelarno prikazati podatke sa Json API-ja, sa opcijama filtriranja, sortiranja i paginacije.
+The goal was to present data from a JSON API in a table, with the possibility of filtering, sorting and pagination.
 
-Filtriranje, odnosno pretragu sam napravio tako da može sve odjednom da se pretražuje i da se kombinuje i više podataka ukoliko je potrebno.
+The filtering, i.e. search form was created so that everything can be searched through, and multiple data can be combined if necessary.
 
-Sortiranje je na naslovima u tabelima, po principu od više ka nižem i suprotno.
+The sorting is placed in the table headers, working on smallest to largest and vice versa principle.
 
-Sama aplikacija je napravljena u Angular-u, koristeći ng-pipes za određene stvari (paginacija, sortiranje, filtriranje), dok je za vizuelnu prezentaciju korišćen Boostrap i CSS stylesheet.
+The application itself was created in Angular, using ng-pipes for certain tasks (pagination, sorting, filtering), while the visual representation was executed using Bootstrap and CSS stylesheet.
