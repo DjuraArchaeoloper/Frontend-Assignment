@@ -1,4 +1,4 @@
-# FrontendAssignment
+# Frontend Assignment
 
 The project was created using [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 Download the project and install `Angular` and `NodeJS`.
